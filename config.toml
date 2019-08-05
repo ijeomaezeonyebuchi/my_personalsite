@@ -1,7 +1,8 @@
 languageCode = "en-us"
-title = "Prologue"
-baseurl = "http://example.org/"
+title = "Ijeoma Ezeonyebuchi"
+baseurl = "https://ijeomaezeonyebuchi.github.io/"
 theme = "prologue"
+publishDir = "ijeomaezeonyebuchi.github.io"
 
 [params]
   name = "Ijeoma Ezeonyebuchi"
