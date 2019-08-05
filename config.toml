@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Ijeoma Ezeonyebuchi"
-baseurl = "https://ijeomaezeonyebuchi.github.io/"
+baseurl = "https://ijeomaezeonyebuchi.github.io/index.html"
 theme = "prologue"
 publishDir = "ijeomaezeonyebuchi.github.io"
 
